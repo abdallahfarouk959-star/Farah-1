@@ -382,9 +382,6 @@ export default function App() {
             variants={itemVariants}
             className="pt-6 text-center space-y-1"
           >
-            <div className="font-serif text-2xl font-bold tracking-widest text-[#d4af37]">
-              وعاقبة لديهم بالمسرات
-            </div>
             <div className="text-[10px] tracking-[0.4em] text-[#f4ecd8]/40 uppercase mt-2">
               • WITH LOVE •
             </div>
